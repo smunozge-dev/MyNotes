@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f05c2905b93f3e25",
+        "id": "695edfb76287a94b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b18f87d45e1f5a1",
+            "id": "1528da8ac713a1fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sergio/ESTUDIO/DOCKER/INDEX DOCKER.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "INDEX DOCKER"
             }
           }
         ]
@@ -181,6 +185,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9b18f87d45e1f5a1",
-  "lastOpenFiles": []
+  "active": "1528da8ac713a1fc",
+  "lastOpenFiles": [
+    "Sergio/ESTUDIO/DOCKER/DOCKER.md",
+    "Sergio/ESTUDIO/DOCKER/INDEX DOCKER.md",
+    "Sergio/Sin título.base",
+    "Sergio/Bienvenido.md",
+    "Sergio/ESTUDIO/LENGUAJE",
+    "Sergio/ESTUDIO/LENGUAJE/LUA",
+    "Sergio/ESTUDIO/DOCKER"
+  ]
 }
